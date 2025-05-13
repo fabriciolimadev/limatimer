@@ -1,6 +1,6 @@
 # Lima Timer
 
-<img alt="Lima Timer" src="[<url-of-image>](https://i.imgur.com/N2ctgx4.png)" />
+<img alt="Lima Timer" src="https://i.imgur.com/N2ctgx4.png" />
 
 
 ## Sobre o Projeto
