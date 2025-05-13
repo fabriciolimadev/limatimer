@@ -1,5 +1,8 @@
 # Lima Timer
 
+<img alt="Lima Timer" src="[<url-of-image>](https://i.imgur.com/N2ctgx4.png)" />
+
+
 ## Sobre o Projeto
 
 Lima Timer é um aplicativo de gerenciamento de tempo baseado na técnica Pomodoro, desenvolvido para ajudar usuários a manter o foco e aumentar a produtividade. O aplicativo permite criar ciclos de trabalho cronometrados, acompanhar o histórico de atividades e alternar entre temas claro e escuro.
